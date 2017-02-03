@@ -1,0 +1,43 @@
+*{margin:0;padding:0;}
+input{outline:none;}
+li{list-style: none;}
+img{display: block;}
+a{text-decoration:none;color:#fff;}
+.index-top{width:100%;background:#000;}
+.index-topcen{width:1200px;height:34px;margin:0 auto;}
+.index-topcen h1{float:left;margin-left:280px;}
+.ding-duan{line-height:34px;font-size:12px;float:left;}
+.ding-duan a{padding:0 10px;}
+#search-box{width:236px;height:20px;border:1px solid #eee;float:right;margin-top:5px;}
+#search-box input{width:200px;height:20px;border:0;float:left;background:0;}
+#search-btn{width:36px;height:20px;border:0;float:left;background:0;}
+.w-navwrap{width:100%;height:44px;background:#000;position:relative;Z-index:2;}
+.w-navcen{width:1200px;margin:0 auto;height:44px;}
+.w-nav{height:44px;width:600px;float:left;margin-left: 300px;}
+.w-nav li{height:44px;float:left;line-height:44px;}
+.w-nav li a{padding:0 15px;display:inline-block;float:left;height:42px;line-height:44px;}
+.w-nav li a:hover{display:inline-block;float:left;border-bottom:2px solid #eeeeee;color:#f00;}
+.w-zhunav{width:100%;height:44px;background:#f7f2ec;margin-bottom:20px;position:relative;Z-index:2;}
+.w-zhunavcen{width:1200px;margin:0 auto;height:44px;}
+.w-onemenu{width:600px;margin-left:300px;}
+.w-onemenu li{float:left;padding:0 15px;line-height:44px;height:44px;position: relative;}
+.w-onemenu li a{color:#000;}
+.w-submenu{width:300px;height:300px;background:#f00;position: absolute;top:44px;display: none;Z-index:20;}
+.w-bannerbox{width:1200px;height:610px;margin:0 auto;position: relative;overflow: hidden}
+.w-bannerbox p{position:absolute;left:550px;bottom:20px;}
+.w-bannerbox p span{display:block;float:left;width:20px;height:20px;background:#fff;border-radius:50%;margin:0 5px;opacity:0.5;}
+.w-bannerbox .active{background:#f00;}
+.w-banner{height:610px;position:absolute;}
+.w-banner li{float:left;}
+
+.w-xindong{width:1200px;height:106px;margin:0 auto;margin-top:20px;background:#fff;}
+.bigteam{float:left;}
+.w-xindong .bigteam{margin-right:40px;width:250px;transition:1s;}
+.w-xindong .bigteam:hover{transform:translateX(-20px);}
+.w-xindong .right-li{float:right;margin:0;}
+.w-xindong .left-li{margin-left:30px;}
+
+/*picture*/
+.w-jianhuo{width:1200px;height:40px;padding-bottom:20px;margin:0 auto;}
+.w-jianhuo img{margin:0 auto;}
+.w-ban1{width:1200px;height:600px;margin:0 auto;margin-bottom:30px;}
